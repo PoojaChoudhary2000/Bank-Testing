@@ -1,0 +1,386 @@
+2023-11-06 16:30:24,576 - ebanking -INFO - Entered Username
+2023-11-06 16:30:24,665 - ebanking -INFO - Entered Password
+2023-11-06 16:30:24,672 - ebanking -INFO - Login Test Passed
+2023-11-06 16:30:25,091 - ebanking -INFO - Submit zbutton Clicked
+2023-11-06 16:40:56,020 - ebanking -INFO - Entered Username
+2023-11-06 16:40:56,115 - ebanking -INFO - Entered Password
+2023-11-06 16:40:56,126 - ebanking -INFO - Login Test Passed
+2023-11-06 16:40:56,779 - ebanking -INFO - Submit zbutton Clicked
+2023-11-06 16:42:53,847 - ebanking -INFO - Entered Username
+2023-11-06 16:42:53,936 - ebanking -INFO - Entered Password
+2023-11-06 16:42:53,943 - ebanking -INFO - Login Test Passed
+2023-11-06 16:42:54,703 - ebanking -INFO - Submit zbutton Clicked
+2023-11-06 16:48:13,318 - ebanking -INFO - Entered Username
+2023-11-06 16:48:13,401 - ebanking -INFO - Entered Password
+2023-11-06 16:48:13,413 - ebanking -INFO - Login Test Passed
+2023-11-06 16:48:13,993 - ebanking -INFO - Submit button Clicked
+2023-11-06 16:51:31,729 - ebanking -INFO - Entered Username
+2023-11-06 16:51:31,822 - ebanking -INFO - Entered Password
+2023-11-06 16:51:32,075 - ebanking -INFO - Screenshot taken
+2023-11-06 16:52:21,895 - ebanking -INFO - Entered Username
+2023-11-06 16:52:21,981 - ebanking -INFO - Entered Password
+2023-11-06 16:52:22,414 - ebanking -INFO - Submit button Clicked
+2023-11-06 16:53:53,667 - ebanking -INFO - Entered Username
+2023-11-06 16:53:53,756 - ebanking -INFO - Entered Password
+2023-11-06 16:53:55,404 - ebanking -INFO - Submit button Clicked
+2023-11-06 16:55:54,135 - ebanking -INFO - Entered Username
+2023-11-06 16:55:54,269 - ebanking -INFO - Entered Password
+2023-11-06 16:55:54,708 - ebanking -INFO - Submit button Clicked
+2023-11-06 16:56:51,859 - ebanking -INFO - Entered Username
+2023-11-06 16:56:51,941 - ebanking -INFO - Entered Password
+2023-11-06 16:56:52,396 - ebanking -INFO - Submit button Clicked
+2023-11-06 16:58:19,253 - ebanking -INFO - Entered Username
+2023-11-06 16:58:19,347 - ebanking -INFO - Entered Password
+2023-11-06 16:58:19,359 - ebanking -INFO - Login Test Passed
+2023-11-06 16:58:19,957 - ebanking -INFO - Submit button Clicked
+2023-11-07 22:00:27,684 - ebanking -INFO - Entered Username
+2023-11-07 22:00:27,776 - ebanking -INFO - Entered Password
+2023-11-07 22:00:27,784 - ebanking -INFO - Login Test Passed
+2023-11-07 22:00:28,245 - ebanking -INFO - Submit button Clicked
+2023-11-07 22:40:52,781 - ebanking -INFO - Entered Username
+2023-11-07 22:40:52,891 - ebanking -INFO - Entered Password
+2023-11-07 22:40:52,898 - ebanking -INFO - Login Test Passed
+2023-11-07 22:40:53,943 - ebanking -INFO - Submit button Clicked
+2023-11-07 22:42:26,278 - ebanking -INFO - Entered Username
+2023-11-07 22:42:26,357 - ebanking -INFO - Entered Password
+2023-11-07 22:42:26,365 - ebanking -INFO - Login Test Passed
+2023-11-07 22:42:27,096 - ebanking -INFO - Submit button Clicked
+2023-11-07 22:45:32,946 - ebanking -INFO - Entered Username
+2023-11-07 22:45:33,032 - ebanking -INFO - Entered Password
+2023-11-07 22:45:33,042 - ebanking -INFO - Login Test Passed
+2023-11-07 22:45:34,061 - ebanking -INFO - Submit button Clicked
+2023-11-07 22:48:10,818 - ebanking -INFO - Entered Username
+2023-11-07 22:48:10,888 - ebanking -INFO - Entered Password
+2023-11-07 22:48:10,895 - ebanking -INFO - Login Test Passed
+2023-11-07 22:48:11,982 - ebanking -INFO - Submit button Clicked
+2023-11-08 14:11:21,475 - ebanking -INFO - Entered Username
+2023-11-08 14:11:21,564 - ebanking -INFO - Entered Password
+2023-11-08 14:11:21,587 - ebanking -INFO - Login Test Passed
+2023-11-08 14:11:22,256 - ebanking -INFO - Submit button Clicked
+2023-11-08 14:44:30,519 - ebanking -INFO - url opened
+2023-11-08 14:48:23,038 - ebanking -INFO - url opened
+2023-11-08 14:52:35,172 - ebanking -INFO - url opened
+2023-11-08 15:10:15,998 - ebanking -INFO - url opened
+2023-11-08 15:14:04,257 - ebanking -INFO - url opened
+2023-11-08 15:16:06,058 - ebanking -INFO - url opened
+2023-11-08 15:18:29,823 - ebanking -INFO - url opened
+2023-11-08 15:21:22,673 - ebanking -INFO - url opened
+2023-11-08 15:26:35,740 - ebanking -INFO - url opened
+2023-11-08 15:27:13,551 - ebanking -INFO - url opened
+2023-11-08 15:32:32,469 - ebanking -INFO - url opened
+2023-11-08 15:35:45,041 - ebanking -INFO - url opened
+2023-11-08 15:36:00,419 - ebanking -INFO - url opened
+2023-11-08 15:36:00,536 - ebanking -INFO - Entered Username
+2023-11-08 15:36:00,624 - ebanking -INFO - Entered Password
+2023-11-08 15:36:00,921 - ebanking -INFO - Screenshot taken
+2023-11-08 15:36:59,914 - ebanking -INFO - url opened
+2023-11-08 15:37:00,029 - ebanking -INFO - Entered Username
+2023-11-08 15:37:00,111 - ebanking -INFO - Entered Password
+2023-11-08 15:37:00,117 - ebanking -INFO - Facebook – log in or sign up
+2023-11-08 15:37:00,393 - ebanking -INFO - Screenshot taken
+2023-11-08 15:37:25,132 - ebanking -INFO - url opened
+2023-11-08 15:37:25,242 - ebanking -INFO - Entered Username
+2023-11-08 15:37:25,317 - ebanking -INFO - Entered Password
+2023-11-08 15:37:25,326 - ebanking -INFO - Facebook – log in or sign up
+2023-11-08 15:37:25,333 - ebanking -INFO - Login Test Passed
+2023-11-08 15:37:25,383 - ebanking -INFO - Submit button Clicked
+2023-11-08 15:37:45,204 - ebanking -INFO - url opened
+2023-11-08 15:37:45,322 - ebanking -INFO - Entered Username
+2023-11-08 15:37:45,417 - ebanking -INFO - Entered Password
+2023-11-08 15:37:45,426 - ebanking -INFO - Facebook – log in or sign up
+2023-11-08 15:37:45,434 - ebanking -INFO - Login Test Passed
+2023-11-08 15:37:45,494 - ebanking -INFO - Submit button Clicked
+2023-11-24 12:50:26,339 - ebanking -INFO - url opened
+2023-11-24 12:50:26,466 - ebanking -INFO - Entered Username
+2023-11-24 12:50:26,569 - ebanking -INFO - Entered Password
+2023-11-24 12:50:26,576 - ebanking -INFO - Facebook – log in or sign up
+2023-11-24 12:50:26,586 - ebanking -INFO - Login Test Passed
+2023-11-24 12:50:26,648 - ebanking -INFO - Submit button Clicked
+2023-11-24 12:50:39,305 - ebanking -INFO - url opened
+2023-11-24 12:50:39,445 - ebanking -INFO - Entered Username
+2023-11-24 12:50:39,573 - ebanking -INFO - Entered Password
+2023-11-24 12:50:39,579 - ebanking -INFO - Facebook – log in or sign up
+2023-11-24 12:50:39,589 - ebanking -INFO - Login Test Passed
+2023-11-24 12:50:39,669 - ebanking -INFO - Submit button Clicked
+2023-11-24 12:58:54,060 - ebanking -INFO - url opened
+2023-11-24 12:58:54,882 - ebanking -INFO - Entered Username
+2023-11-24 12:58:55,144 - ebanking -INFO - Entered Password
+2023-11-24 12:58:55,151 - ebanking -INFO - Sign In | LinkedIn
+2023-11-24 12:58:55,263 - ebanking -INFO - Submit button Clicked
+2023-11-24 13:00:00,272 - ebanking -INFO - url opened
+2023-11-24 13:00:01,179 - ebanking -INFO - Entered Username
+2023-11-24 13:00:01,321 - ebanking -INFO - Entered Password
+2023-11-24 13:00:01,329 - ebanking -INFO - Sign In | LinkedIn
+2023-11-24 13:00:01,356 - ebanking -INFO - Login Test Passed
+2023-11-24 13:00:01,494 - ebanking -INFO - Submit button Clicked
+2023-11-24 14:34:18,669 - ebanking -INFO - url opened
+2023-11-24 14:34:19,839 - ebanking -INFO - Entered Username
+2023-11-24 14:34:20,092 - ebanking -INFO - Entered Password
+2023-11-24 14:34:20,107 - ebanking -INFO - Sign In | LinkedIn
+2023-11-24 14:34:20,118 - ebanking -INFO - Login Test Passed
+2023-11-24 14:34:20,215 - ebanking -INFO - Submit button Clicked
+2023-11-24 14:45:40,510 - ebanking -INFO - url opened
+2023-11-24 14:45:41,184 - ebanking -INFO - Entered Username
+2023-11-24 14:45:41,403 - ebanking -INFO - Entered Password
+2023-11-24 14:45:41,419 - ebanking -INFO - Sign In | LinkedIn
+2023-11-24 14:45:41,459 - ebanking -INFO - Login Test Passed
+2023-11-24 14:45:41,559 - ebanking -INFO - Submit button Clicked
+2023-11-24 15:21:15,777 - ebanking -INFO - url opened
+2023-11-24 15:21:16,226 - ebanking -INFO - signIn clicked
+2023-11-24 15:21:16,760 - ebanking -INFO - Entered Username
+2023-11-24 15:21:16,866 - ebanking -INFO - Entered Password
+2023-11-24 15:21:16,872 - ebanking -INFO - Sign In | LinkedIn
+2023-11-24 15:21:16,877 - ebanking -INFO - Login Test Passed
+2023-11-24 15:21:24,575 - ebanking -INFO - Submit button Clicked
+2023-11-24 15:45:53,976 - ebanking -INFO - url opened
+2023-11-24 15:46:39,041 - ebanking -INFO - url opened
+2023-11-24 15:46:39,189 - ebanking -INFO - Entered Username
+2023-11-24 15:46:39,303 - ebanking -INFO - Entered Password
+2023-11-24 15:46:39,311 - ebanking -INFO - Guru99 Bank Home Page
+2023-11-24 15:46:39,633 - ebanking -INFO - Screenshot taken
+2023-11-24 15:47:11,647 - ebanking -INFO - url opened
+2023-11-24 15:47:11,759 - ebanking -INFO - Entered Username
+2023-11-24 15:47:11,860 - ebanking -INFO - Entered Password
+2023-11-24 15:47:11,870 - ebanking -INFO - Guru99 Bank Home Page
+2023-11-24 15:47:11,876 - ebanking -INFO - Login Test Passed
+2023-11-24 15:47:13,638 - ebanking -INFO - Submit button Clicked
+2023-11-24 16:03:41,579 - ebanking -INFO - url opened
+2023-11-24 16:03:41,724 - ebanking -INFO - Entered Username
+2023-11-24 16:03:41,828 - ebanking -INFO - Entered Password
+2023-11-24 16:03:41,838 - ebanking -INFO - Guru99 Bank Home Page
+2023-11-24 16:03:41,850 - ebanking -INFO - Login Test Passed
+2023-11-24 16:03:43,146 - ebanking -INFO - Submit button Clicked
+2023-11-24 16:04:16,417 - ebanking -INFO - url opened
+2023-11-24 16:04:16,563 - ebanking -INFO - Entered Username
+2023-11-24 16:04:16,651 - ebanking -INFO - Entered Password
+2023-11-24 16:04:16,661 - ebanking -INFO - Guru99 Bank Home Page
+2023-11-24 16:04:16,672 - ebanking -INFO - Login Test Passed
+2023-11-24 16:04:17,953 - ebanking -INFO - Submit button Clicked
+2023-11-24 16:14:33,028 - ebanking -INFO - url opened
+2023-11-24 16:14:33,227 - ebanking -INFO - Entered Username
+2023-11-24 16:14:33,413 - ebanking -INFO - Entered Password
+2023-11-24 16:14:33,440 - ebanking -INFO - Guru99 Bank Home Page
+2023-11-24 16:14:33,453 - ebanking -INFO - Login Test Passed
+2023-11-24 16:14:34,572 - ebanking -INFO - Submit button Clicked
+2023-11-24 16:18:17,074 - ebanking -INFO - url opened
+2023-11-24 16:18:17,230 - ebanking -INFO - Entered Username
+2023-11-24 16:18:17,321 - ebanking -INFO - Entered Password
+2023-11-24 16:18:17,331 - ebanking -INFO - Guru99 Bank Home Page
+2023-11-24 16:18:17,337 - ebanking -INFO - Login Test Passed
+2023-11-24 16:18:18,652 - ebanking -INFO - Submit button Clicked
+2023-11-24 16:19:41,713 - ebanking -INFO - url opened
+2023-11-24 16:19:41,889 - ebanking -INFO - Entered Username
+2023-11-24 16:19:41,970 - ebanking -INFO - Entered Password
+2023-11-24 16:19:41,979 - ebanking -INFO - Guru99 Bank Home Page
+2023-11-24 16:19:41,988 - ebanking -INFO - Login Test Passed
+2023-11-24 16:19:43,141 - ebanking -INFO - Submit button Clicked
+2023-11-24 16:19:44,548 - ebanking -INFO - browser closed
+2023-11-24 16:19:48,509 - ebanking -INFO - browser closed
+2023-11-24 16:20:46,289 - ebanking -INFO - browser closed
+2023-11-24 16:26:28,334 - ebanking -INFO - username provided
+2023-11-24 16:26:28,426 - ebanking -INFO - password provided
+2023-11-24 16:26:30,656 - ebanking -WARN - login passed
+2023-11-24 16:26:33,016 - ebanking -INFO - username provided
+2023-11-24 16:26:33,145 - ebanking -INFO - password provided
+2023-11-24 16:26:34,726 - ebanking -INFO - username provided
+2023-11-24 16:26:35,016 - ebanking -INFO - password provided
+2023-11-24 16:26:36,503 - ebanking -INFO - username provided
+2023-11-24 16:26:36,680 - ebanking -INFO - password provided
+2023-11-24 16:26:38,188 - ebanking -INFO - username provided
+2023-11-24 16:26:38,324 - ebanking -INFO - password provided
+2023-11-24 16:26:41,408 - ebanking -INFO - browser closed
+2023-11-24 16:27:15,335 - ebanking -INFO - username provided
+2023-11-24 16:27:15,427 - ebanking -INFO - password provided
+2023-11-24 16:27:17,379 - ebanking -INFO - username provided
+2023-11-24 16:27:17,583 - ebanking -INFO - password provided
+2023-11-24 16:27:19,036 - ebanking -INFO - username provided
+2023-11-24 16:27:19,223 - ebanking -INFO - password provided
+2023-11-24 16:27:20,918 - ebanking -INFO - username provided
+2023-11-24 16:27:21,207 - ebanking -INFO - password provided
+2023-11-24 16:27:27,868 - ebanking -INFO - browser closed
+2023-11-24 16:32:34,788 - ebanking -INFO - browser closed
+2023-11-24 16:33:53,949 - ebanking -INFO - username provided
+2023-11-24 16:33:54,063 - ebanking -INFO - password provided
+2023-11-24 16:33:56,018 - ebanking -WARN - login passed
+2023-11-24 16:33:57,965 - ebanking -INFO - username provided
+2023-11-24 16:33:58,151 - ebanking -INFO - password provided
+2023-11-24 16:33:59,696 - ebanking -INFO - username provided
+2023-11-24 16:33:59,884 - ebanking -INFO - password provided
+2023-11-24 16:34:01,454 - ebanking -INFO - username provided
+2023-11-24 16:34:01,609 - ebanking -INFO - password provided
+2023-11-24 16:34:03,085 - ebanking -INFO - username provided
+2023-11-24 16:34:03,242 - ebanking -INFO - password provided
+2023-11-24 16:34:06,098 - ebanking -INFO - browser closed
+2023-11-24 16:35:30,705 - ebanking -INFO - username provided
+2023-11-24 16:35:30,777 - ebanking -INFO - password provided
+2023-11-24 16:35:32,927 - ebanking -INFO - username provided
+2023-11-24 16:35:33,238 - ebanking -INFO - password provided
+2023-11-24 16:35:35,048 - ebanking -INFO - username provided
+2023-11-24 16:35:35,259 - ebanking -INFO - password provided
+2023-11-24 16:35:37,119 - ebanking -INFO - username provided
+2023-11-24 16:35:37,189 - ebanking -INFO - password provided
+2023-11-24 16:35:40,020 - ebanking -INFO - browser closed
+2023-11-24 16:36:36,708 - ebanking -INFO - url opened
+2023-11-24 16:36:36,948 - ebanking -INFO - Entered Username
+2023-11-24 16:36:37,119 - ebanking -INFO - Entered Password
+2023-11-24 16:36:37,130 - ebanking -INFO - Guru99 Bank Home Page
+2023-11-24 16:36:37,142 - ebanking -INFO - Login Test Passed
+2023-11-24 16:36:43,709 - ebanking -INFO - Submit button Clicked
+2023-11-24 16:36:45,090 - ebanking -INFO - browser closed
+2023-11-24 16:36:51,840 - ebanking -INFO - username provided
+2023-11-24 16:36:51,933 - ebanking -INFO - password provided
+2023-11-24 16:36:53,172 - ebanking -WARN - login passed
+2023-11-24 16:36:55,582 - ebanking -INFO - username provided
+2023-11-24 16:36:55,656 - ebanking -INFO - password provided
+2023-11-24 16:36:57,184 - ebanking -INFO - username provided
+2023-11-24 16:36:57,769 - ebanking -INFO - password provided
+2023-11-24 16:36:59,311 - ebanking -INFO - username provided
+2023-11-24 16:36:59,361 - ebanking -INFO - password provided
+2023-11-24 16:37:01,202 - ebanking -INFO - username provided
+2023-11-24 16:37:01,262 - ebanking -INFO - password provided
+2023-11-24 16:37:04,412 - ebanking -INFO - browser closed
+2023-11-24 16:54:51,034 - ebanking -INFO - url opened
+2023-11-24 16:54:51,587 - ebanking -INFO - Entered Username
+2023-11-24 16:54:51,675 - ebanking -INFO - Entered Password
+2023-11-24 16:54:51,689 - ebanking -INFO - Guru99 Bank Home Page
+2023-11-24 16:54:51,700 - ebanking -INFO - Login Test Passed
+2023-11-24 16:54:52,849 - ebanking -INFO - Submit button Clicked
+2023-11-24 16:54:54,239 - ebanking -INFO - browser closed
+2023-11-24 16:55:00,677 - ebanking -INFO - username provided
+2023-11-24 16:55:00,756 - ebanking -INFO - password provided
+2023-11-24 16:55:02,056 - ebanking -WARN - login passed
+2023-11-24 16:55:09,607 - ebanking -INFO - username provided
+2023-11-24 16:55:09,657 - ebanking -INFO - password provided
+2023-11-24 16:55:18,661 - ebanking -INFO - browser closed
+2023-11-24 16:58:03,669 - ebanking -INFO - username provided
+2023-11-24 16:58:03,771 - ebanking -INFO - password provided
+2023-11-24 16:58:05,093 - ebanking -WARN - login passed
+2023-11-24 16:58:07,350 - ebanking -INFO - username provided
+2023-11-24 16:58:07,431 - ebanking -INFO - password provided
+2023-11-24 16:58:08,913 - ebanking -INFO - username provided
+2023-11-24 16:58:09,186 - ebanking -INFO - password provided
+2023-11-24 16:58:10,797 - ebanking -INFO - username provided
+2023-11-24 16:58:11,070 - ebanking -INFO - password provided
+2023-11-24 16:58:12,729 - ebanking -INFO - username provided
+2023-11-24 16:58:12,994 - ebanking -INFO - password provided
+2023-11-24 16:58:15,847 - ebanking -INFO - browser closed
+2023-11-24 16:58:49,442 - ebanking -INFO - url opened
+2023-11-24 16:58:49,796 - ebanking -INFO - Entered Username
+2023-11-24 16:58:49,915 - ebanking -INFO - Entered Password
+2023-11-24 16:58:49,924 - ebanking -INFO - Guru99 Bank Home Page
+2023-11-24 16:58:49,954 - ebanking -INFO - Login Test Passed
+2023-11-24 16:58:55,396 - ebanking -INFO - Submit button Clicked
+2023-11-24 16:58:56,871 - ebanking -INFO - browser closed
+2023-11-24 16:59:03,511 - ebanking -INFO - username provided
+2023-11-24 16:59:03,584 - ebanking -INFO - password provided
+2023-11-24 16:59:04,944 - ebanking -WARN - login passed
+2023-11-24 16:59:07,249 - ebanking -INFO - username provided
+2023-11-24 16:59:07,311 - ebanking -INFO - password provided
+2023-11-24 16:59:10,371 - ebanking -INFO - browser closed
+2023-11-24 17:00:48,057 - ebanking -INFO - url opened
+2023-11-24 17:00:48,481 - ebanking -INFO - Entered Username
+2023-11-24 17:00:48,561 - ebanking -INFO - Entered Password
+2023-11-24 17:00:48,570 - ebanking -INFO - Guru99 Bank Home Page
+2023-11-24 17:00:48,579 - ebanking -INFO - Login Test Passed
+2023-11-24 17:00:49,745 - ebanking -INFO - Submit button Clicked
+2023-11-24 17:00:51,154 - ebanking -INFO - browser closed
+2023-11-24 17:01:00,670 - ebanking -INFO - username provided
+2023-11-24 17:01:00,756 - ebanking -INFO - password provided
+2023-11-24 17:01:01,977 - ebanking -WARN - login passed
+2023-11-24 17:01:04,162 - ebanking -INFO - username provided
+2023-11-24 17:01:04,240 - ebanking -INFO - password provided
+2023-11-24 17:01:07,903 - ebanking -INFO - browser closed
+2023-11-24 17:06:34,446 - ebanking -INFO - url opened
+2023-11-24 17:06:34,669 - ebanking -INFO - Entered Username
+2023-11-24 17:06:34,973 - ebanking -INFO - Entered Password
+2023-11-24 17:06:34,983 - ebanking -INFO - Guru99 Bank Home Page
+2023-11-24 17:06:34,992 - ebanking -INFO - Login Test Passed
+2023-11-24 17:06:36,214 - ebanking -INFO - Submit button Clicked
+2023-11-24 17:06:37,674 - ebanking -INFO - browser closed
+2023-11-24 17:06:44,817 - ebanking -INFO - username provided
+2023-11-24 17:06:44,892 - ebanking -INFO - password provided
+2023-11-24 17:06:46,027 - ebanking -WARN - login passed
+2023-11-24 17:06:47,853 - ebanking -INFO - username provided
+2023-11-24 17:06:47,903 - ebanking -INFO - password provided
+2023-11-24 17:06:51,256 - ebanking -INFO - browser closed
+2023-11-24 17:09:22,650 - ebanking -INFO - username provided
+2023-11-24 17:09:22,734 - ebanking -INFO - password provided
+2023-11-24 17:09:26,667 - ebanking -WARN - login passed
+2023-11-24 17:09:30,322 - ebanking -INFO - username provided
+2023-11-24 17:09:30,405 - ebanking -INFO - password provided
+2023-11-24 17:09:35,982 - ebanking -INFO - browser closed
+2023-11-25 16:47:49,941 - ebanking -INFO - UserName is provided
+2023-11-25 16:47:50,027 - ebanking -INFO - Password is provided
+2023-11-25 16:48:02,933 - ebanking -INFO - Submit Button Clicked
+2023-11-25 16:48:06,027 - ebanking -INFO - Add Cusromer Clicked
+2023-11-25 16:48:18,371 - ebanking -INFO - browser closed
+2023-11-25 16:49:06,057 - ebanking -INFO - UserName is provided
+2023-11-25 16:49:06,144 - ebanking -INFO - Password is provided
+2023-11-25 16:49:07,722 - ebanking -INFO - Submit Button Clicked
+2023-11-25 16:49:10,810 - ebanking -INFO - Add Cusromer Clicked
+2023-11-25 16:49:23,118 - ebanking -INFO - browser closed
+2023-11-25 16:51:15,796 - ebanking -INFO - UserName is provided
+2023-11-25 16:51:15,901 - ebanking -INFO - Password is provided
+2023-11-25 16:51:17,388 - ebanking -INFO - Submit Button Clicked
+2023-11-25 16:51:20,480 - ebanking -INFO - Add Cusromer Clicked
+2023-11-25 16:51:35,232 - ebanking -INFO - Customer Name Entered
+2023-11-25 16:51:36,292 - ebanking -INFO - Customer Gender Entered
+2023-11-25 16:51:37,447 - ebanking -INFO - Customer Dob Entered
+2023-11-25 16:51:39,509 - ebanking -INFO - Customer Address Entered
+2023-11-25 16:51:41,815 - ebanking -INFO - browser closed
+2023-11-25 16:55:41,442 - ebanking -INFO - UserName is provided
+2023-11-25 16:55:41,541 - ebanking -INFO - Password is provided
+2023-11-25 16:55:42,847 - ebanking -INFO - Submit Button Clicked
+2023-11-25 16:55:45,948 - ebanking -INFO - Add Cusromer Clicked
+2023-11-25 16:55:50,967 - ebanking -INFO - Customer Name Entered
+2023-11-25 16:55:52,030 - ebanking -INFO - Customer Gender Entered
+2023-11-25 16:55:53,166 - ebanking -INFO - Customer Dob Entered
+2023-11-25 16:55:55,240 - ebanking -INFO - Customer Address Entered
+2023-11-25 16:55:56,313 - ebanking -INFO - Customer PIN no Entered
+2023-11-25 16:55:57,397 - ebanking -INFO - Customer state Entered
+2023-11-25 16:55:58,476 - ebanking -INFO - Customer Phone no. Entered
+2023-11-25 16:55:59,554 - ebanking -INFO - Customer City Entered
+2023-11-25 16:56:00,660 - ebanking -INFO - Customer Email Entered
+2023-11-25 16:56:00,719 - ebanking -INFO - Customer passsword Entered
+2023-11-25 16:56:06,047 - ebanking -INFO - Validation Started.........
+2023-11-25 16:56:06,304 - ebanking -INFO - Screenshot taken
+2023-11-25 16:56:07,597 - ebanking -INFO - browser closed
+2023-11-25 16:57:35,982 - ebanking -INFO - UserName is provided
+2023-11-25 16:57:36,068 - ebanking -INFO - Password is provided
+2023-11-25 16:57:37,724 - ebanking -INFO - Submit Button Clicked
+2023-11-25 16:57:40,823 - ebanking -INFO - Add Cusromer Clicked
+2023-11-25 16:57:53,155 - ebanking -INFO - browser closed
+2023-11-25 16:58:13,245 - ebanking -INFO - UserName is provided
+2023-11-25 16:58:13,325 - ebanking -INFO - Password is provided
+2023-11-25 16:58:14,922 - ebanking -INFO - Submit Button Clicked
+2023-11-25 16:58:18,028 - ebanking -INFO - Add Cusromer Clicked
+2023-11-25 16:58:19,990 - ebanking -INFO - Customer Name Entered
+2023-11-25 16:58:21,060 - ebanking -INFO - Customer Gender Entered
+2023-11-25 16:58:22,206 - ebanking -INFO - Customer Dob Entered
+2023-11-25 16:58:24,280 - ebanking -INFO - Customer Address Entered
+2023-11-25 16:58:25,359 - ebanking -INFO - Customer PIN no Entered
+2023-11-25 16:58:26,440 - ebanking -INFO - Customer state Entered
+2023-11-25 16:58:27,526 - ebanking -INFO - Customer Phone no. Entered
+2023-11-25 16:58:28,594 - ebanking -INFO - Customer City Entered
+2023-11-25 16:58:29,703 - ebanking -INFO - Customer Email Entered
+2023-11-25 16:58:29,770 - ebanking -INFO - Customer passsword Entered
+2023-11-25 16:58:33,173 - ebanking -INFO - Validation Started.........
+2023-11-25 16:58:33,191 - ebanking -INFO - TestCase PAssed....
+2023-11-25 16:58:34,436 - ebanking -INFO - browser closed
+2023-11-25 16:59:16,870 - ebanking -INFO - UserName is provided
+2023-11-25 16:59:16,945 - ebanking -INFO - Password is provided
+2023-11-25 16:59:18,520 - ebanking -INFO - Submit Button Clicked
+2023-11-25 16:59:21,611 - ebanking -INFO - Add Cusromer Clicked
+2023-11-25 16:59:28,990 - ebanking -INFO - Customer Name Entered
+2023-11-25 16:59:30,074 - ebanking -INFO - Customer Gender Entered
+2023-11-25 16:59:31,220 - ebanking -INFO - Customer Dob Entered
+2023-11-25 16:59:33,309 - ebanking -INFO - Customer Address Entered
+2023-11-25 16:59:34,392 - ebanking -INFO - Customer PIN no Entered
+2023-11-25 16:59:35,478 - ebanking -INFO - Customer state Entered
+2023-11-25 16:59:36,572 - ebanking -INFO - Customer Phone no. Entered
+2023-11-25 16:59:37,659 - ebanking -INFO - Customer City Entered
+2023-11-25 16:59:38,741 - ebanking -INFO - Customer Email Entered
+2023-11-25 16:59:38,803 - ebanking -INFO - Customer passsword Entered
+2023-11-25 16:59:47,839 - ebanking -INFO - Validation Started.........
+2023-11-25 16:59:47,854 - ebanking -INFO - TestCase PAssed....
+2023-11-25 16:59:49,103 - ebanking -INFO - browser closed
